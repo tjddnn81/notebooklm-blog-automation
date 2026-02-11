@@ -1,0 +1,6 @@
+2026 Agentic AI Trends:
+1. Autonomous Agents: AI that can execute complex tasks without human intervention.
+2. Web 4.0: The intelligent web where agents interact with each other.
+3. Hyper-personalization: AI tailoring every digital experience to the individual.
+4. AI in Healthcare: Predictive diagnostics becomes mainstream.
+5. Sustainable AI: Focus on energy-efficient models.
